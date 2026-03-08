@@ -70,26 +70,14 @@ int main()
             }
         }
 
-        // Print the numbers
-        // for (int n : nums)
-        // {
-        //     cout << n << " ";
-        // }
-
         // Print the status
         if (isSafe)
         {
             safeCount++;
-            // cout << ": Safe" << endl;
         }
-        // else
-        // {
-        //     cout << ": Unsafe" << endl;
-        // }
     }
 
     cout << "The total reports that are safe is: " << safeCount << endl;
-    // The total reports that are safe is: 230
 
     return 0;
 }

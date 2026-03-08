@@ -57,7 +57,6 @@ int main()
     }
 
     cout << "The total distance is: " << sum << endl;
-    // The total distance is: 2742123
 
     return 0;
 }

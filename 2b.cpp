@@ -91,7 +91,6 @@ int main()
     }
 
     cout << "The total reports that are safe is: " << safeCount << endl;
-    // The total reports that are safe is: 301
 
     return 0;
 }

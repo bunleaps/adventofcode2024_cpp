@@ -41,7 +41,6 @@ int main()
     }
 
     cout << "All of the results of the multiplications is: " << totalSum << endl;
-    // All of the results of the multiplications is: 173419328
 
     inputData.close();
     return 0;

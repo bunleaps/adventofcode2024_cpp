@@ -54,7 +54,6 @@ int main()
     }
 
     cout << "The similarity score is: " << sum << endl;
-    // The similarity score is : 21328497
 
     return 0;
 }
